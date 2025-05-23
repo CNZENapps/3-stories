@@ -1,2 +1,2 @@
 # Read three short stories and enjoy!
-link: https://cnzenapps.github.io/3-stories/
+link: https://cnzenapps.github.io/CNZEN-Mini-Stories/
